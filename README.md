@@ -3,6 +3,7 @@
 The codes are for the following paper:
 
 Cheng, Yuan and Xuehui Han. 2022. "Assessing the economic loss due to natural disasters from outer space" Climate Services 26: 100286.
+https://www.sciencedirect.com/science/article/pii/S2405880722000048?via%3Dihub
 
 Please cite the paper when using the codes. When using the data sources to replicate results, please also cite the following sources: 
 
